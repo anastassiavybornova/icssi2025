@@ -1,9 +1,64 @@
 # [ICSSI 2025](https://icssi.org) - Detailed program
 
+
+<!-- <table>
+    <thead>
+        <tr>
+          <th>&nbsp;</th>
+          <th>&nbsp;</th>
+          <th>Auditorium</th>
+          <th>Room 1</th>
+          <th>Room 2</th>
+          <th>Room 3</th>
+          <th>Room 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b style="color:#AD5ABA">Time 1</b></td>
+            <td><b>Parallel session I</b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#parallel-session-i">Inequalities I</a></b></td>
+            <td><b>Session B</b></td>
+            <td><b>Session C</b></td>
+            <td><b>Session D</b></td>
+            <td><b>Session E</b></td>
+        </tr>
+        <tr>
+            <td><b style="color:#AD5ABA">Time 2</b></td>
+            <td><b>Poster session I</b></td>
+            <td colspan="5">Whatever this is this will span all five columns and continue</td>
+        </tr>
+        <tr>
+            <td><b style="color:#AD5ABA">Time 3</b></td>
+            <td><b>Lightning talks I</b></td>
+            <td colspan="5">Whatever this is this will span all five columns and continue</td>
+        </tr>
+        <tr>
+            <td><b style="color:#AD5ABA">Time X</b></td>
+            <td><b>Parallel session II</b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#parallel-session-ii">Inequalities II</a></b></td>
+            <td><b>Session B</b></td>
+            <td><b>Session C</b></td>
+            <td><b>Session D</b></td>
+            <td><b>Session E</b></td>
+        </tr>
+        <tr>
+            <td><b style="color:#AD5ABA">Time X</b></td>
+            <td><b>Poster session II</b></td>
+            <td colspan="5">Whatever this is this will span all five columns and continue</td>
+        </tr>
+        <tr>
+            <td><b style="color:#AD5ABA">Time X</b></td>
+            <td><b>Lightning talks II</b></td>
+            <td colspan="5">Whatever this is this will span all five columns and continue</td>
+        </tr>
+    </tbody>
+</table> -->
+
 Jump to:
 * [Program Overview (on ICSSI website)](https://icssi.org/schedule/)
+* [Parallel session I (Mon) - details](https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#parallel-session-i)
 * [Poster session I (Mon) - details](program.md#poster-session-i)
-* [Parallel session I (Mon) - details](program.md#parallel-session-i)
 * [Lightning talks I (Tue) - details](program.md#lightning-talks-i)
 * [Parallel session II (Tue) - details](program.md#parallel-session-ii)
 * [Poster session II (Tue)- details](program.md#poster-session-ii)
@@ -13,8 +68,30 @@ Jump to:
 
 # Parallel session I
 
-## INEQUALITIES I
+<table>
+    <thead>
+        <tr>
+          <th>📍</th>
+          <th>Auditorium</th>
+          <th>PH26.4.07</th>
+          <th>PH26.4.08</th>
+          <th>PH16.0.10</th>
+          <th>PH16.2.10</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b style="color:#CF00A0">⏰ Mon 13:30-15:30</b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#inequalities-i">Inequalities I</a></b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#careers-i">Careers I</a></b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#collaborations--interdisciplinarity">Collaborations & Interdisciplinarity</a></b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#knowledge-diffusion">Knowledge Diffusion</a></b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#science-funding-i">Science Funding</a></b></td>
+        </tr>
+    </tbody>
+</table>
 
+## INEQUALITIES I
 
 ⏰ Monday, June 16, 13:30-15:30
 
@@ -183,10 +260,32 @@ Jump to:
 
 # Parallel session II
 
-⏰ Tuesday, June 17, 13:30-15:30
+
+<table>
+    <thead>
+        <tr>
+          <th>📍</th>
+          <th>Auditorium</th>
+          <th>PH26.4.07</th>
+          <th>PH26.4.08</th>
+          <th>PH16.0.10</th>
+          <th>PH16.2.10</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b style="color:#CF00A0">⏰ Tue 13:30-15:30</b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#inequalities-ii">Inequalities II</a></b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#careers-ii">Careers II</a></b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#ai--science">AI & Science</a></b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#innovation">Innovation</a></b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#science-funding-ii">Science Funding II</a></b></td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## INEQUALITIES II
-
 
 ⏰ Tuesday, June 17, 13:30-15:30
 
@@ -201,6 +300,23 @@ Jump to:
 * **The committee curse: why winners in contests are largely overrated** (Pantelis P. Analytis, Katinka den Nijs, Minsu Park, Johannes Müller-Trede) [nr 163]
 * **Topic classification in OpenAlex can bias studies on gender inequality in science** (Luca Gallo, Amina Akhmadiyeva, Endre Márk Borza, Orsolya Vasarhelyi) [nr 123]
 * **Unveiling Bias in Academic Peer Review** (Maria Sahakyan, Bedoor AlShebli) [nr 43]
+
+## CAREERS II
+
+
+⏰ Tuesday, June 17, 13:30-15:30
+
+
+📍 PH26.4.07 (floor 4)
+
+
+* **Fair Ranking of Scholars in Citation Networks** (Elisabetta Salvai, Jacob Aarup Dalsgaard, Lasse Buschmann Alsbirk, Roberta Sinatra) [nr 86]
+* **Gender disparities in the dissemination and acquisition of scientific knowledge** (Chiara Zappalà, Luca Gallo, Jan Bachmann, Federico Battiston, Fariba Karimi) [nr 105]
+* **Quantifying Ageing Effect in Scientific and Innovative Careers** (Yangfanyu Yang, Alex J. Yang, Yian Yin) [nr 54]
+* **Quantifying the Innovativeness of Celebrated Scientists and Their Embeddedness in Collaboration Networks** (Chaolin Tian, Yurui Huang, Ching Jin, Brian Uzzi, Yifang Ma) [nr 73]
+* **Recognition In Academia: Evidence From 80 Million Publications** (MARLENE KOFFI) [nr 179]
+* **Scientific productivity and practice in the era of Large Language Models** (Keigo Kusumegi, Xinyu Yang, Paul Ginsparg, Mathijs De Vaan, Toby Stuart, Yian Yin) [nr 81]
+* **The Influence of PhD Education on Long-Term Research Innovation** (Yiling Lin, Lingfei Wu) [nr 185]
 
 
 ## AI & SCIENCE
@@ -219,24 +335,6 @@ Jump to:
 * **Suggesting Impactful and Interesting Research Ideas through knowledge graphs and machine learning, with evaluation by 100 Research Group Leaders** (Xuemei Gu, Mario Krenn) [nr 150]
 * **Tracing Scientific Innovation Through Language** (Carina Kane, Donghyun Kang, Austin C. Kozlowski, Shiyang Lai, James Evans) [nr 193]
 * **Whose Name Comes Up? Auditing LLM-Based Scholar Recommendations** (Daniele Barolo, Chiara Valentin, Fariba Karimi, Luis Galárraga, Gonzalo Gabriel Méndez, Lisette Espin-Noboa) [nr 37]
-
-
-## CAREERS II
-
-
-⏰ Tuesday, June 17, 13:30-15:30
-
-
-📍 PH26.4.07 (floor 4)
-
-
-* **Fair Ranking of Scholars in Citation Networks** (Elisabetta Salvai, Jacob Aarup Dalsgaard, Lasse Buschmann Alsbirk, Roberta Sinatra) [nr 86]
-* **Gender disparities in the dissemination and acquisition of scientific knowledge** (Chiara Zappalà, Luca Gallo, Jan Bachmann, Federico Battiston, Fariba Karimi) [nr 105]
-* **Quantifying Ageing Effect in Scientific and Innovative Careers** (Yangfanyu Yang, Alex J. Yang, Yian Yin) [nr 54]
-* **Quantifying the Innovativeness of Celebrated Scientists and Their Embeddedness in Collaboration Networks** (Chaolin Tian, Yurui Huang, Ching Jin, Brian Uzzi, Yifang Ma) [nr 73]
-* **Recognition In Academia: Evidence From 80 Million Publications** (MARLENE KOFFI) [nr 179]
-* **Scientific productivity and practice in the era of Large Language Models** (Keigo Kusumegi, Xinyu Yang, Paul Ginsparg, Mathijs De Vaan, Toby Stuart, Yian Yin) [nr 81]
-* **The Influence of PhD Education on Long-Term Research Innovation** (Yiling Lin, Lingfei Wu) [nr 185]
 
 
 ## INNOVATION
