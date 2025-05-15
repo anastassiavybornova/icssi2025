@@ -31,7 +31,7 @@ Jump to:
             <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#careers-i">Careers I</a></b></td>
             <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#collaborations--interdisciplinarity">Collaborations & Interdisciplinarity</a></b></td>
             <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#knowledge-diffusion">Knowledge Diffusion</a></b></td>
-            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#science-funding-i">Science Funding</a></b></td>
+            <td><b><a href="https://github.com/anastassiavybornova/icssi2025/blob/main/program/program.md#science-funding-i">Science Funding I</a></b></td>
         </tr>
     </tbody>
 </table>
