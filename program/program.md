@@ -100,7 +100,7 @@ Jump to:
 
 
 * **A static research enterprise decouples from changes in the burden of disease** (Leo Schmallenbach, Maximilian Bley, Till W. Bärnighausen, Cassidy Sugimoto, Carolin Lerchenmüller, Marc J. Lerchenmueller) [nr 74]
-* **Estimating the scientific cost of nationalism** (mengge sun, Atuahene, Godwin, Cassidy R. Sugimoto, Yong-Yeol Ahn, Lili Miao) [nr 202]
+* **Estimating the scientific cost of nationalism** (Mengge Sun, Atuahene, Godwin, Cassidy R. Sugimoto, Yong-Yeol Ahn, Lili Miao) [nr 202]
 * **Physics Institutes in Imperial Germany** (Michael E. Rose) [nr 48]
 * **Scientist Gender and the Impact of Scientific Research** (Alice Arusyak Zakaryan, Rajat Khanna) [nr 91]
 * **Shifting the Balance: Quantifying the Influence of Developing Countries in Global Climate Negotiations** (YunJung Yang, Jisung Yoon) [nr 72]
@@ -187,7 +187,7 @@ Jump to:
 
 📍 Outside the Auditorium
 
-* **A Global and Cross Disciplinary Description of the Use of Artificial Intelligence in Scientific Research - 1995 To 2023** (Andres CASTRO, Joan Giner-Miguelez, Merce Crosas) [nr 76]
+* **A Global and Cross Disciplinary Description of the Use of Artificial Intelligence in Scientific Research - 1995 To 2023** (Andres Castro, Joan Giner-Miguelez, Merce Crosas) [nr 76]
 * **A Text-based Measure of Humility in Scientific Inquiry** (Erin Leahey, Charles Jonathan Gomez, Sarah Bratt, Jina Lee, Yea-Eun Kwon, Charles Lassiter) [nr 164]
 * **AI Policy Landscapes of Developed and Developing Countries** (Jeongmin Lee, Jaehyuk Park, Jisung Yoon) [nr 101]
 * **AI in the Lab: AlphaFold’s Impacts on Human-Produced Knowledge** (Jiarui Qian) [nr 116]
@@ -213,12 +213,12 @@ Jump to:
 * **How parenthood affects access to collaborators in Swedish academia** (Peter Holmström) [nr 181]
 * **Human-LLM Coevolution: Evidence from Academic Writing** (Mingmeng Geng, Roberto Trotta) [nr 221]
 * **Indirect Data Citation Connections and Scholarly Impact of Researchers: Evidence from ICPSR Datasets** (Hyowon Kim, Sarah Bratt) [nr 168]
-* **Internationally mobile researchers contribute to scientific production far beyond their share in the population** (Aliakbar Akbaritabar, Andres CASTRO, Emilio Zagheni) [nr 6]
+* **Internationally mobile researchers contribute to scientific production far beyond their share in the population** (Aliakbar Akbaritabar, Andres Castro, Emilio Zagheni) [nr 6]
 * **Linguistic distribution of publications and references at the crossroads of Dimensions and OpenAlex** (Lucía Céspedes, Carolina Pradier, Vincent Lariviere) [nr 49]
 * **Mapping the Leaky Pipeline in Psychology: Analysis of Gender Disparities in Academic Progression** (Xinyi Zhao, Anna Thoma, Ralph Hertwig, Dirk U. Wulff) [nr 58]
 * **Media Framing of AI in Education: Network and Textual Analysis of 10,000 News Articles** (Daniel Verdi do Amarante, Stephen Aguilar) [nr 200]
 * **Most reputable demographic journals according to demographers** (Ilya Kashnitsky) [nr 62]
-* **Nobelwomen: status and gender balance in science** (Sofie Cairo, Laura Rosendahl Huber rosendahlhuber@rsm.nl>, Michael E. Rose, stefano Horst Barrufaldi) [nr 41]
+* **Nobelwomen: status and gender balance in science** (Sofie Cairo, Laura Rosendahl Huber, Michael E. Rose, stefano Horst Barrufaldi) [nr 41]
 * **Novel Hierarchical LLM-based Word Embedding Approach for Scientific Terms** (Pradyumn Sampurnanand Pathak, Sanket Praveen Patil, Alexander V Belikov, Jamshid Sourati) [nr 218]
 * **On the distribution of disruptiveness in scientific papers over time** (Drini Morina) [nr 225]
 * **Open, Disambiguated, and Comprehensive Researcher Data for Science and Policy** (Vicente Amado Olivo, Wolfgang E Kerzendorf) [nr 189]
@@ -228,7 +228,7 @@ Jump to:
 * **Recent Developments in Deep Learning-based Author Name Disambiguation** (Francesca Cappelli, Giovanni Colavizza, Silvio Peroni) [nr 140]
 * **Registered Revisions Meta-Trial: A Novel Experimental Approach to Examining a Within-Peer Review Precommitment Policy** (Noah Haber, Timothy M. Errington, Macie Daley, Brian Nosek) [nr 191]
 * **Repurposing datasets fuels breakthrough** (Yulin Yu, Yong-Yeol Ahn, Daniel Romero) [nr 31]
-* **Revealing the Gender Distribution of Funding Allocation in Spanish Public Universities** (THAMYRES TETSUE CHOJI, Jose A. Moral-Munoz, Manuel J. Cobo) [nr 102]
+* **Revealing the Gender Distribution of Funding Allocation in Spanish Public Universities** (Thamyres Tetuse Choji, Jose A. Moral-Munoz, Manuel J. Cobo) [nr 102]
 * **Revisiting the citation networks from policy documents to science** (Bernardo Buarque) [nr 178]
 * **Sustainable Development Goals in Psychology: A Century of Progress in Publications** (Xinyi Zhao, Dirk U. Wulff) [nr 113]
 * **Ten-year Impact Tracking of a Career Development Award in Ireland** (Junwen Luo) [nr 79]
@@ -369,7 +369,7 @@ Jump to:
 * **People, Places \& Things: How R&D Funders Shape Networks Of Innovation** (Martin Ho, Henry CW Price, Tim S. Evans, Eoin O'Sullivan) [nr 11]
 * **Strategic Idea Revival: How Scientists Leverage Evaluator Turnover to Resubmit Rejected Ideas** (Johanna Schnier) [nr 94]
 * **Switching topics as strategic responses to funding cuts: the long-term impact of political tensions** (Yangwang, Moxin Li) [nr 24]
-* **Turning the Tide: Persistent Search after Failures in Drug Development** (GIACOMO MARCHESINI) [nr 16]
+* **Turning the Tide: Persistent Search after Failures in Drug Development** (Giacomo Marchesini) [nr 16]
 * **Unpacking Gender Disparities in Research Grant Applications: Insights from the University of Cambridge** (Agata Czech, Noam Tal-Perry, Becky Ioppolo, Steven Wooding) [nr 78]
 
 
@@ -382,7 +382,7 @@ Jump to:
 
 📍 Outside the Auditorium
 
-* **A Comparative Analysis of the use of Linear Models in Quantitative Social Sciences** (Andres CASTRO, Aliakbar Akbaritabar) [nr 77]
+* **A Comparative Analysis of the use of Linear Models in Quantitative Social Sciences** (Andres Castro, Aliakbar Akbaritabar) [nr 77]
 * **A bibliometric study of past and present trends in mathematical oncology** (Kira Pugh, Linnéa Gyllingberg, Stanislav Stratiev, Sara Hamis) [nr 142]
 * **Academic Knowledge Accumulation Drives Venture Capital Investments** (Noriyuki Higashide, Hiroyuki Miyamoto, Cristian Mejia, Ichiro Sakata, Yuya Kajikawa) [nr 39]
 * **Academic Mobility and Collaboration Patterns in the Gulf** (Maria Sahakyan, Bedoor AlShebli) [nr 157]
@@ -406,7 +406,7 @@ Jump to:
 * **Presenting Terrorizer: an algorithm for consolidating company names in patent assignees** (Grazia Sveva Ascione, Valerio Sterzi) [nr 158]
 * **Regulatory Transparency and Innovation** (Šimon Trlifaj) [nr 66]
 * **Responsible Algorithm Innovation under Scrutiny: Incremental vs. Disruptive Paths in Platform AI** (Xin Gao, Jingjing Qu, Hui Zou) [nr 176]
-* **Revisiting North-South Disparities in Naming Practices: An Extension and Update** (Andres CASTRO) [nr 75]
+* **Revisiting North-South Disparities in Naming Practices: An Extension and Update** (Andres Castro) [nr 75]
 * **Subjective Uncertainty in Science Communications** (Grace Shao, Jamshid Sourati) [nr 217]
 * **The Diversity Deficit: Understanding Demographic Imbalances in Research in the Context of the SDGs** (Ana María Jaramillo, Hélène Draux, Fariba Karimi, Juergen Wastl) [nr 87]
 * **The Emergence of the Economics of Science: Evidence from the WOEPS workshop (2007-2023)** (Daniel Souza, Aldo Geuna, Cornelia Lawson) [nr 227]
