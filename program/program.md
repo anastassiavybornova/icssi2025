@@ -44,6 +44,8 @@ Jump to:
 📍 Auditorium
 
 
+📎 Chair: TBD
+
 * **A static research enterprise decouples from changes in the burden of disease** (Leo Schmallenbach, Maximilian Bley, Till W. Bärnighausen, Cassidy Sugimoto, Carolin Lerchenmüller, Marc J. Lerchenmueller) [nr 74]
 * **Estimating the scientific cost of nationalism** (Mengge Sun, Atuahene, Godwin, Cassidy R. Sugimoto, Yong-Yeol Ahn, Lili Miao) [nr 202]
 * **Physics Institutes in Imperial Germany** (Michael E. Rose) [nr 48]
@@ -61,6 +63,8 @@ Jump to:
 
 📍 PH26.4.07 (floor 4)
 
+
+📎 Chair: Marlène Koffi
 
 * **Being your own Master: How Constraints on Academic Freedom Affect Graduates’ Career Choices** (Hans Christian Kongsted, Yotam Sofer, Valentina Tartari) [nr 103]
 * **Children, careers and the gender gap in Swedish academia** (Peter Holmström, Olof Ejermo) [nr 126]
@@ -80,6 +84,8 @@ Jump to:
 📍 PH26.4.08 (floor 4)
 
 
+📎 Chair: Xuemei Gu
+
 * **Collaboration and the diffusion of software technology** (Gabor Meszaros, Johannes Wachs) [nr 32]
 * **Findable, But Less Reusable: The FAIRness of Shared Data in Psychology** (André Bittermann, Anna Löhlein, Christian Omieczynski, Tim Lauer, Mario Gollwitzer, Kai Sassenberg) [nr 170]
 * **Hidden Division of Labor in Scientific Teams Revealed Through 1.6 Million LaTeX Files** (Jiaxin Pei, Lulin Yang, Lingfei Wu) [nr 53]
@@ -97,6 +103,8 @@ Jump to:
 
 📍 PH16.0.10 (Creative Studio)
 
+
+📎 Chair: Linzhuo Li
 
 * **Are Widely Known Findings Easier to Retract?** (Shahan Ali Memon, Jevin West, Cailin O'Connor) [nr 203]
 * **Belief Perseverance in Science: Who keeps citing retracted papers?** (Maximilian Noichl, Samuli Reijula) [nr 110]
@@ -116,6 +124,9 @@ Jump to:
 📍 PH16.2.10 (Team Studio)
 
 
+📎 Chair: Gail Sheppard
+
+
 * **Expert predictions and errors in research funding decisions** (Andola Stanaj, Chiara Franzoni, Massimiliano guerini, Rikke Nørding Christensen) [nr 3]
 * **Inefficient Basic Science** (Pedro Adami Oliboni) [nr 180]
 * **Information Availability and the Benefits of Government Funded Research** (Marek Giebel) [nr 13]
@@ -128,9 +139,14 @@ Jump to:
 
 # Poster session I
 
+
 ⏰ Monday, June 16, 16:00-17:30
 
+
 📍 Outside the Auditorium
+
+
+📎 Contact person: [Anastassia Vybornova](mailto:anv.si@cbs.dk)
 
 * **A Global and Cross Disciplinary Description of the Use of Artificial Intelligence in Scientific Research - 1995 To 2023** (Andres Castro, Joan Giner-Miguelez, Merce Crosas) [nr 76]
 * **A Text-based Measure of Humility in Scientific Inquiry** (Erin Leahey, Charles Jonathan Gomez, Sarah Bratt, Jina Lee, Yea-Eun Kwon, Charles Lassiter) [nr 164]
@@ -192,6 +208,8 @@ Jump to:
 
 📍 Auditorium
 
+📎 Host: Anastassia Vybornova
+
 * **Do Journal Data Sharing Requirements Promote Humility in Scientific Articles?** (Sarah Bratt, Erin Leahey, Yeaeun Kwon, Charles Lassiter, Jina Lee, Charles Jonathan Gomez) [nr 198]
 * **Do academic faculty trade prestige for salary?** (Samsun Knight, Sam Zhang) [nr 199]
 * **Gender in the Production and Reception of Surprising and Prescient Science** (Carolina Biliotti, Massimo Riccaboni, Jeffrey W Lockhart, James Evans) [nr 149]
@@ -234,9 +252,9 @@ Jump to:
 
 ⏰ Tuesday, June 17, 13:30-15:30
 
-
 📍 Auditorium
 
+📎 Chair: Ting Xiao
 
 * **Hidden Gender Disparities in Inventor-Evaluator Networks and Missing Hit Innovations** (Tara Sowrirajan, Ryan Whalen, Brian Uzzi) [nr 34]
 * **Intervention addresses demographic and prestige disparities in academic coauthorship network** (Kate Barnes, Mia Ellis-Einhorn, Nayera Hasan, Mohammad Fanous, Blair D. Sullivan, Sorelle A. Friedler, Aaron Clauset) [nr 134]
@@ -254,6 +272,8 @@ Jump to:
 
 📍 PH26.4.07 (floor 4)
 
+
+📎 Chair: Haochuan Cui
 
 * **Fair Ranking of Scholars in Citation Networks** (Elisabetta Salvai, Jacob Aarup Dalsgaard, Lasse Buschmann Alsbirk, Roberta Sinatra) [nr 86]
 * **Gender disparities in the dissemination and acquisition of scientific knowledge** (Chiara Zappalà, Luca Gallo, Jan Bachmann, Federico Battiston, Fariba Karimi) [nr 105]
@@ -273,6 +293,8 @@ Jump to:
 📍 PH26.4.08 (floor 4)
 
 
+📎 Chair: Gábor Mészáros
+
 * **Automating Scholarly Judgment** (Jiwoong Choi, siyangwu, Yingrong Mao, Honglin Bao) [nr 209]
 * **Can LLM-based AI agents automate science communication?** (Shahan Ali Memon, James Koppel, Tom Hope, Jevin West) [nr 165]
 * **Defending the Fundamentals: Measuring and Interpreting the Impact of Basic Researchers on Scientific Publications** (Rikuei Kaku, Mikako Bito, Keita Nishimoto, Ichiro Sakata, Kimitaka Asatani) [nr 23]
@@ -291,6 +313,8 @@ Jump to:
 📍 PH16.0.10 (Creative Studio)
 
 
+📎 Chair: TBD
+
 * **Advancing Scientific Discovery: A Machine Learning Approach to Targeted Knowledge Discovery and Exploration** (Tobias Buchmann) [nr 89]
 * **Atypicality and Disruption Are Negatively Correlated** (linzhuo li, Yiling Lin, Lingfei Wu) [nr 65]
 * **Mapping new knowledge: using novelty measures critically** (Martina Iori, Daniel Souza, Pierre Pelletier, Magda Fontana, Aldo Geuna) [nr 229]
@@ -308,6 +332,7 @@ Jump to:
 
 📍 PH16.2.10 (Team Studio)
 
+📎 Chair: Ruggero Maria Barzon
 
 * **Addressing Conservatism in Research Funding With Lotteries, Golden Tickets, and Novelty-Dedicated Panels** (Thomas Feliciani, Rikke Nørding Christensen, Chiara Franzoni) [nr 44]
 * **Boundary Spanners and (In) visible Work: Data Stewards and Public-Private Research Partnerships** (Marie Dunne, Kalpana Shankar, Gail Sheppard) [nr 35]
@@ -326,6 +351,8 @@ Jump to:
 ⏰ Tuesday, June 17, 16:30-17:30
 
 📍 Outside the Auditorium
+
+📎 Contact person: [Anastassia Vybornova](mailto:anv.si@cbs.dk)
 
 * **A Comparative Analysis of the use of Linear Models in Quantitative Social Sciences** (Andres Castro, Aliakbar Akbaritabar) [nr 77]
 * **A bibliometric study of past and present trends in mathematical oncology** (Kira Pugh, Linnéa Gyllingberg, Stanislav Stratiev, Sara Hamis) [nr 142]
@@ -374,6 +401,8 @@ Jump to:
 ⏰ Wednesday, June 18, 08:45-09:45
 
 📍 Auditorium
+
+📎 Host: TBD
 
 * **AI in Medicine: Mapping “Ethics”, “Efficiency”, and “Harm” in Scholarly Discourse (2010–2023)** (Anne Kavalerchik) [nr 141]
 * **Brain drain outweighs brain circulation between the Global North and South** (Andrew Herman, Mathias Wullum Nielsen, Jens Peter Andersen) [nr 90]
