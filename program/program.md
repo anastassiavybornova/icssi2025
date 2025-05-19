@@ -208,7 +208,7 @@ Jump to:
 
 📍 Auditorium
 
-📎 Host: Anastassia Vybornova
+📎 Host: TBD
 
 * **Do Journal Data Sharing Requirements Promote Humility in Scientific Articles?** (Sarah Bratt, Erin Leahey, Yeaeun Kwon, Charles Lassiter, Jina Lee, Charles Jonathan Gomez) [nr 198]
 * **Do academic faculty trade prestige for salary?** (Samsun Knight, Sam Zhang) [nr 199]
@@ -402,7 +402,7 @@ Jump to:
 
 📍 Auditorium
 
-📎 Host: TBD
+📎 Host: Anastassia Vybornova
 
 * **AI in Medicine: Mapping “Ethics”, “Efficiency”, and “Harm” in Scholarly Discourse (2010–2023)** (Anne Kavalerchik) [nr 141]
 * **Brain drain outweighs brain circulation between the Global North and South** (Andrew Herman, Mathias Wullum Nielsen, Jens Peter Andersen) [nr 90]
