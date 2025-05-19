@@ -170,9 +170,10 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
-# PyPI configuration file
+# PyPI configuration files
 .pypirc
 
 # others
 .DS_Store
 program/chairs.md
+program/awards.md
