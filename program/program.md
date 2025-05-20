@@ -218,6 +218,7 @@ Jump to:
 * **The Decline of Renaissance Thinkers and Its Cost to Innovation** (Zak Risha, Yiling Lin, Erin Leahey, Lingfei Wu) [nr 186]
 * **We Will Rock You: The Power of First-Person Plural Pronouns in Scientific Publishing** (Lijian Peng, Brian Uzzi, Hao Peng) [nr 26]
 * **Women-majority teams benefit less from online visibility** (Orsolya Vasarhelyi, Julia Barnett, Stasa Milojevic, Emoke-Agnes Horvat) [nr 125]
+* **The Metascience Novelty Indicators Challenge** (Sarah Otner)
 
 ***
 
@@ -413,6 +414,5 @@ Jump to:
 * **Learning by Evaluating: Evidence from Academic Peer Review** (Charles Ayoubi, James M. Zumel Dumlao, Misha Teplitskiy) [nr 204]
 * **Postdoc publications and citations link to academic retention and faculty success** (Yueran Duan, Shahan Ali Memon, Bedoor AlShebli, Qing Guan, Petter Holme, Talal Rahwan) [nr 14]
 * **Review of Reviews: Emergence, timing, and influence of review articles** (Abbas K. Rizi, Hasti Narimanzadeh, Petter Holme, Sune Lehmann) [nr 201]
-* **The Metascience Novelty Indicators Challenge** (Sarah Otner)
 
 ***
